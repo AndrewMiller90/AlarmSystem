@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/PlbzL6JCU+OCKhKW2XDQAAAAAACAAAAAAAQZgAAAAEAACAAAADlE0rDkCPfDK8GHf2dJ+9Cpl5OioT/urHV5vrsolOc9wAAAAAOgAAAAAIAACAAAAAKvZ6NjjFfCARJl0EURvTzueZz5C3LFRubSkM2FAQ6KyAAAAB7B3ZeVCDWAqtmfem03nRDI4V8WJ3/LbzdkiLieHoFekAAAACS1SrftmGVG7UnMwfmyUKQxF3dPYK67UfphyBhr15YgiY1CDuUL5qwipkovwh5gYhe5JWl7hgWRUP3RxKIZkdW</EncryptedPassword>
+    <_PublishTargetUrl>ftp://69.175.84.125/AlarmSystem.ciabubbles.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AlarmWebApp.dll">
+      <publishTime>05/16/2015 20:04:06</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>05/18/2015 20:21:56</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>05/18/2015 20:21:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/14/2015 20:51:19</publishTime>
+    </File>
+    <File Include="bin/SharedComponents.exe">
+      <publishTime>05/16/2015 19:54:55</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/14/2015 20:51:20</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/14/2015 20:51:19</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/15/2015 12:32:14</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/18/2015 20:21:55</publishTime>
+    </File>
+    <File Include="Views/Home/AlarmControlView.cshtml">
+      <publishTime>05/16/2015 17:29:00</publishTime>
+    </File>
+    <File Include="Views/Home/Error.cshtml">
+      <publishTime>05/15/2015 12:26:45</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/15/2015 12:13:17</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/15/2015 12:44:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/16/2015 20:30:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

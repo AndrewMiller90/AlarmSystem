@@ -1,0 +1,11 @@
+G:\L-3\Socks\Socks\bin\Release\Socks.exe.config
+G:\L-3\Socks\Socks\bin\Release\Socks.exe
+G:\L-3\Socks\Socks\bin\Release\Socks.pdb
+G:\L-3\Socks\Socks\bin\Release\Ninject.dll
+G:\L-3\Socks\Socks\bin\Release\RaspberryPiDotNet.dll
+G:\L-3\Socks\Socks\bin\Release\SharedComponents.exe
+G:\L-3\Socks\Socks\bin\Release\SharedComponents.pdb
+G:\L-3\Socks\Socks\bin\Release\Ninject.xml
+G:\L-3\Socks\Socks\obj\Release\Socks.csprojResolveAssemblyReference.cache
+G:\L-3\Socks\Socks\obj\Release\Socks.exe
+G:\L-3\Socks\Socks\obj\Release\Socks.pdb

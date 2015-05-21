@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+@using SharedComponents;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <title>AlarmControlView</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm()) { 
+            if (ViewBag.State != null) {
+                string name = Enum.GetName(ViewBag.State.GetType(), ViewBag.State);
+                @: Alarm is @name
+                
+                SharedComponents.AlarmCommandEnum commandType = ((SharedComponents.AlarmState)ViewBag.State == SharedComponents.AlarmState.Disarmed ?
+                    SharedComponents.AlarmCommandEnum.Arm :
+                    SharedComponents.AlarmCommandEnum.Disarm);
+                <input type="submit" value=@commandType.ToString() />
+            }
+            else {
+                @:Unable to retrieve System Status
+            }
+            <br/> 
+            if (ViewBag.SpecialText != null) { 
+                    @: @ViewBag.SpecialText; 
+            }
+            @Html.ActionLink("Return Home", "Index")
+
+        }
+    </div>
+</body>
+</html>

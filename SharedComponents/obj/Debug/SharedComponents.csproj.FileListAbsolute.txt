@@ -1,0 +1,9 @@
+c:\Users\amiller\documents\visual studio 2012\Projects\Socks\SharedComponents\obj\Debug\SharedComponents.csprojResolveAssemblyReference.cache
+c:\Users\amiller\documents\visual studio 2012\Projects\Socks\SharedComponents\bin\Debug\SharedComponents.exe
+c:\Users\amiller\documents\visual studio 2012\Projects\Socks\SharedComponents\bin\Debug\SharedComponents.pdb
+c:\Users\amiller\documents\visual studio 2012\Projects\Socks\SharedComponents\obj\Debug\SharedComponents.exe
+c:\Users\amiller\documents\visual studio 2012\Projects\Socks\SharedComponents\obj\Debug\SharedComponents.pdb
+G:\L-3\Socks\SharedComponents\bin\Debug\SharedComponents.exe
+G:\L-3\Socks\SharedComponents\bin\Debug\SharedComponents.pdb
+G:\L-3\Socks\SharedComponents\obj\Debug\SharedComponents.exe
+G:\L-3\Socks\SharedComponents\obj\Debug\SharedComponents.pdb

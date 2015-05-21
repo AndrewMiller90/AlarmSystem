@@ -1,0 +1,19 @@
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\bin\Debug\Socks.exe.config
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\bin\Debug\Socks.exe
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\bin\Debug\Socks.pdb
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\obj\Debug\Socks.exe
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\obj\Debug\Socks.pdb
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\bin\Debug\Ninject.dll
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\bin\Debug\Ninject.xml
+c:\users\amiller\documents\visual studio 2012\Projects\Socks\Socks\obj\Debug\Socks.csprojResolveAssemblyReference.cache
+G:\L-3\Socks\Socks\bin\Debug\Socks.exe.config
+G:\L-3\Socks\Socks\obj\Debug\Socks.csprojResolveAssemblyReference.cache
+G:\L-3\Socks\Socks\bin\Debug\Socks.exe
+G:\L-3\Socks\Socks\bin\Debug\Socks.pdb
+G:\L-3\Socks\Socks\bin\Debug\Ninject.dll
+G:\L-3\Socks\Socks\bin\Debug\SharedComponents.exe
+G:\L-3\Socks\Socks\bin\Debug\SharedComponents.pdb
+G:\L-3\Socks\Socks\bin\Debug\Ninject.xml
+G:\L-3\Socks\Socks\obj\Debug\Socks.exe
+G:\L-3\Socks\Socks\obj\Debug\Socks.pdb
+G:\L-3\Socks\Socks\bin\Debug\RaspberryPiDotNet.dll
